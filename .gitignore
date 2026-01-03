@@ -1,0 +1,26 @@
+
+.vscode/
+
+node_modules/
+
+
+.env
+
+.DS_Store
+
+
+# Cursor / VS Code
+.cursor/
+.vscode/
+argv.json
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Dependencies
+node_modules/
+
+node_modules/
+.DS_Store
+.cursor/
