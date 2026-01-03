@@ -1,0 +1,23 @@
+username and pass
+
+admin@youmatter.com
+admin
+
+test@gmail.com
+test@gmail.com
+
+test1@gmail.com
+test1@gmail.com
+
+
+running command
+
+for backend
+cd backend
+node index.js
+
+for client/ frontend
+cd client
+npm run dev
+
+team member added
