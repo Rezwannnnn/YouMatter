@@ -20,3 +20,4 @@ for client/ frontend
 cd client
 npm run dev
 
+team member added
